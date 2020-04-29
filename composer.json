@@ -1,0 +1,14 @@
+{
+  "name": "OstwinD9991/hillel30",
+  "description": "Hillel Library Test",
+  "autoload": {
+    "psr-4": {
+      "Hillel\\Library\\": "src/"
+
+    }
+
+  }
+
+
+
+}
