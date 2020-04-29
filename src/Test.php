@@ -8,7 +8,7 @@ class Test
 {
     public function test()
     {
-        return "Победа!!";
+        return "Победа!! Урааа";
     }
 
 }
